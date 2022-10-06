@@ -1,0 +1,14 @@
+defaultPortal: hagens_space_key
+portals:
+  - name: hagens_space_key
+    portalId: 22817116
+    authType: personalaccesskey
+    auth:
+      tokenInfo:
+        accessToken: >-
+          CN6vzuG6MBIJAA0AAAAA4A0DGNzS8AogselrKO7pDDIUiRYO2OUGg9VCknBy6D-enNOx8t06NwAABEEAAAB4AAAAAAAAAAAAAAAAAAAABAAAwAcA_v8xPAAABgAAAGAAAAAAAAAAAAAAAAAAMAJCFDIafeEIW-TYNUa76wPc5t1RvMr1SgNuYTFSAFoA
+        expiresAt: '2022-10-06T07:30:05.922Z'
+    personalAccessKey: >-
+      CiQ5NzJkMzU2Yy02YjIxLTQ2YmMtYTg3Yy1hZGFmYTMxZjA4YzgQ3NLwChix6WsqGQAF5pGC1f27trfhoxyWk9cnAxhgtJYFI8lKA25hMQ
+    sandboxAccountType: null
+    parentAccountId: null
